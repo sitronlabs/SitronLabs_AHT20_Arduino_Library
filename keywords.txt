@@ -1,0 +1,7 @@
+aht20	KEYWORD1
+aht20	KEYWORD2
+setup	KEYWORD2
+detect	KEYWORD2
+measurement_async_trigger	KEYWORD2
+measurement_async_get	KEYWORD2
+measurement_sync_get	KEYWORD2
